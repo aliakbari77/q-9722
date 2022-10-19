@@ -1,6 +1,5 @@
 import math
 
-
 def checkPrime(n):
     if (n == 1):
         return False
